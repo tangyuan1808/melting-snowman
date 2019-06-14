@@ -8,5 +8,5 @@ Classic hangman is a guessing game where a word or phrase is given with each of 
 
 ## How to run the application
 
-cd lib
-ruby name_generator.rb
+    cd lib
+    ruby name_generator.rb
